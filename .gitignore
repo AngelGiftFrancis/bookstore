@@ -1,0 +1,24 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+*.iml
+
+# iOS/macOS
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+Pods/
+DerivedData/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# Android
+*.gradle
+/local.properties
+
+# VS Code
+.vscode/
