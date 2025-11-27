@@ -60,4 +60,3 @@ The Bookstore app allows users to browse, buy, and manage books. Admin users can
   - IGHAROSA JESSE EDEBIRI
 - Email: angelgiftfrancis@gmail.com
 - GitHub: https://github.com/AngelGiftFrancis/bookstore
-
